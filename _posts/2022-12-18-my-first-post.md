@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: post
 title: "Oracle v. Google, 10년 자바 전쟁의 결말"
-tags: me
+date: 2022-12-18 22:46
+comments: true
+external-url:
+categories: IT
 ---
 
 > 본 글은 사내 게시판에 공유한 글에 약간의 살을 붙이고 다듬어 옮긴 것입니다.
